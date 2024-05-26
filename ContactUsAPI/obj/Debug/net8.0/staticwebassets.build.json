@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Cj8fMMT0tnoP5EUlpbBmR5Q2OXozcVRqIpwzbUMSZY0=",
+  "Source": "ContactUsAPI",
+  "BasePath": "_content/ContactUsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactUsAPI\\wwwroot",
+      "Source": "ContactUsAPI",
+      "ContentRoot": "E:\\Coding\\Angular-DotNet-Project\\ContactUsAPI\\ContactUsAPI\\wwwroot\\",
+      "BasePath": "_content/ContactUsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
